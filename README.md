@@ -33,6 +33,9 @@ A machine learning-powered web application built with **Streamlit** that predict
 | `requirements.txt`           | Required Python libraries                 |
 
 ---
+## 👤 Author
+**Muhammad Feras Malik**
+
 
 ## 🛠️ Installation Instructions
 
@@ -45,5 +48,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 👤 Author
-**Muhammad Feras Malik**
+
